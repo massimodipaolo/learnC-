@@ -231,7 +231,7 @@ void DemonstrateVirtualInheritance(void) {
 }
 
 
-int main() {
+int _main() {
 	DemonstrateNonVirtualInheritance();
 	DemonstrateVirtualInheritance();
 	return 0;
